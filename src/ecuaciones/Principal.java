@@ -10,5 +10,4 @@ public class Principal {
 		Raices ecuacion3 = new Raices(2, 8, 2);
 		ecuacion3.calcular();
 	}
-
 }
