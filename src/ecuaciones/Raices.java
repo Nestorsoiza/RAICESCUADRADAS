@@ -24,7 +24,7 @@ public class Raices {
 		System.out.println(" Unica solución " + x);
 	}
 
-	private double getDiscriminante() {
+	public double getDiscriminante() {
 		return Math.pow(b, 2)-(4*a*c);
 	}
 	

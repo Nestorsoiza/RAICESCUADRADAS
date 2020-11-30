@@ -9,7 +9,6 @@ public class Principal {
 		ecuacion2.calcular();
 		Raices ecuacion3 = new Raices(2, 8, 2);
 		ecuacion3.calcular();
-		ecuacion3.toString();
 	}
 
 }
